@@ -1,0 +1,23 @@
+/*
+1- Make External CSS file for that:
+    a. Make the font type "Lucida Calligraphy" for any p or div or span tag (use one CSS rule).
+    b. <h1> tag which is child from div tag to be in the center of the page.
+*/
+p, div, span{
+    font-family: 'Courier New', Courier, monospace ;
+}
+div > h1{
+    text-align: center;
+}
+/*
+2- Make inline style for the div with "header" id, that make its width=100%, its height=60px,
+and its background color red.
+*/
+/*
+3- Make inline style for the span which its id is "linksbar" , that make its width=25%, 
+its background color gray, and make it starts from the left of the page (float property).
+*/
+/*
+4- Make inline style for the span which its id is "content", that make its width=75%, 
+its height=70%, its back color pink, and make it comes to the left side after the previous span (float property).
+*/
