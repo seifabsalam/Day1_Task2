@@ -1,12 +1,12 @@
-##READ ME
-#How to activate pages:
+# READ ME
+## How to activate pages:
 1. Settings
 2. Pages
 3. Deploy from a branch -> main
 4. Save
 
-#Bonus
-#How to utilize ssh key
+## Bonus
+### How to utilize ssh key
 1. Generate a new SSH key
 	```bash 
 	ssh-keygen -t ed25519 -C "seif.absalam@gmail.com"
